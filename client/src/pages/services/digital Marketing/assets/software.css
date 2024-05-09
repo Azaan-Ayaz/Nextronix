@@ -1,0 +1,16 @@
+.glowing-light {
+    animation: glow 2s infinite alternate;
+    border-radius: 0.5rem; /* Adjust the value to change the radius of the glow */
+  }
+  
+  @keyframes glow {
+    0% {
+      opacity: 0.5;
+      box-shadow: 0 0 10px 10px rgba(255, 0, 0, 0.5); /* Adjust the shadow spread to control the glow intensity */
+    }
+    100% {
+      opacity: 0;
+      box-shadow: none;
+    }
+  }
+  

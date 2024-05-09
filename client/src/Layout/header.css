@@ -1,0 +1,18 @@
+/* Add these styles to your CSS or Tailwind CSS file */
+
+.service-link {
+    font-weight: 600;
+    font-size: 16px;
+    padding: 8px 16px;
+    display: block;
+    color: #333;
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  .service-link:hover {
+    background-color: #f0f0f0; /* Change background color on hover */
+  }
+  .header {
+    background-color: transparent;
+  }
+  

@@ -1,0 +1,22 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name":"Designing Content and Videos",
+            "description":"If you’re in need of captivating visual solutions, explore our website where we offer expert graphic design services to enhance your brand and communication."
+
+        },
+        {
+            "id": 2,
+            "name":"Digital Marketing",
+            "description":"Unlock the full potential of your online presence with our digital marketing expertise, driving targeted strategies that expand your reach, engage your audience, and deliver measurable results."
+
+        },
+        {
+            "id": 3,
+            "name":"E-Commerce",
+            "description":"Elevate your shopping experience with our seamless e-commerce platform, where you can discover a diverse range of products, enjoy secure transactions, and have items delivered conveniently to your doorste."
+
+        }
+    ]
+}

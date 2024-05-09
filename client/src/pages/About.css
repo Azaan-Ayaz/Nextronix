@@ -1,0 +1,6 @@
+/* header.css */
+.expanded {
+    transition: margin-top 0.3s ease;
+    margin-top: 20px; /* Adjust the value according to your design */
+  }
+  
